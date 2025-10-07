@@ -16,7 +16,7 @@
 
 I bring ideas from **0 to 1**. Whether it's the first follower, first dollar, or first line of code.
 
-🔭 **Currently:** Building [SwipeFeed](https://swipefeed.live/) - a short-form news app with 1000+ users  
+🔭 **Currently:** Building [SwipeFeed](https://swipefeed.xyz/) - a short-form news app with 1000+ users  
 🌱 **Exploring:** Outfit curator AI agent  
 💡 **Open to:** Startup collaborations and interesting projects  
 
